@@ -1,7 +1,7 @@
 # Render Blueprint: plain static site, no build step.
 services:
   - type: web
-    name: guided-troubleshooter
+    name: stepfix
     runtime: static
     buildCommand: ""
     staticPublishPath: .
