@@ -7,7 +7,7 @@ Static site (HTML/CSS/JS, no build step) for StepFix (Guided Troubleshooter Widg
 - `/privacy/` privacy page
 
 Placeholders to replace before launch:
-- `#GUMROAD_LINK` → the Gumroad product URL (all pages, and `window.GT_UPGRADE_URL` in `/editor/`)
+- `https://designstogetinspired.gumroad.com/l/stepfix` → the Gumroad product URL (all pages, and `window.GT_UPGRADE_URL` in `/editor/`)
 - `https://stepfix.onrender.com` → the final domain (canonical, OG, sitemap, robots)
 
 Generated from `/workspace/troubleshooter-product/src/landing/gen.py` (run with `SITE_URL=https://your.domain python3 gen.py`).
